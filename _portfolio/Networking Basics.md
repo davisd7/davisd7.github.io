@@ -1,6 +1,6 @@
 ---
 title: "Networking Basics"
-excerpt:"Earner has knowledge of the types of networks, how they work, how devices send and receive data, the types of network cabling, how IP addresses find information on the Internet, how transport and applications operate, and has practiced building a home wireless network <br/><img src='/images/Networking Basics.png' width='100' height='100'>"
+excerpt:"Earner has knowledge of the types of networks, how they work, how devices send and receive data, the types of network cabling, how IP addresses find information on the Internet, how transport and applications operate, and has practiced building a home wireless network<br/><img src='/images/Networking Basics.png' width='100' height='100'>"
 collection: portfolio
 ---
 
