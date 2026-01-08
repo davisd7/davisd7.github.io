@@ -1,6 +1,6 @@
 ---
 title: "IC3 GS5 Spark Certification"
-excerpt: "Validates foundational Digital Literacy<br/><img src='/images/IC3 Spark.gif' width='100' height='100'>"
+excerpt: "Validates foundational Digital Literacy<br/><img src='/images/IC3 Spark.gif' width='150' height='150'>"
 collection: portfolio
 ---
 
