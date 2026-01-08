@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "DeAvion Davis / Site Title"
+title                    : "DeAvion Davis"
 title_separator          : "-"
 name                     : &name "DeAvion Davis"
 description              : &description "DeAvion's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -54,7 +54,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/deavion-davis-59ab4116a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
