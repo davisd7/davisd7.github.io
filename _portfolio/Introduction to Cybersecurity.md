@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cybersecurity"
-excerpt: The holder of this student-level credential has introductory knowledge of cybersecurity, including the global implications of cyber threats on industries, and why cybersecurity is a growing profession <br/><img src='/images/Intro to Cybersecurity.png' width='100' height='100'>"
+excerpt: The holder of this student-level credential has introductory knowledge of cybersecurity, including the global implications of cyber threats on industries, and why cybersecurity is a growing profession <br/><img src='/images/Intro to Cybersecurity.png' width='100' height='100'>
 collection: portfolio
 ---
 
