@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2025: Correctional Officer/Control Room Operator
+  * Moore Haven Correctional and Rehabilitation Facility
+  * Duties includes: monitoring security systems (cameras, doors, radios), controling inmate movement and access, managing communications, logging all movement data on a nightly basis
+  * Supervisor: Chief Curry
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Electronics Associate
+  * Walmart
+  * Duties included: providing customer service, helping with tech questions, acting as a tech-savvy sales associate and cashier for the electronics section, often dealing with various products from games to smart devices. 
+  * Supervisor: Jonathan Moreno
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Processing Associate
+  * Goodwill Industries of SWFL
+  * Duties included: sorting, grading, tagging, and pricing donated goods, adhering to production goals and company standards to support mission services
+  * Supervisor: Xavier Scott
   
 Skills
 ======
