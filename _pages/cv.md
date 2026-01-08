@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Immokalee Technical College, 2026 (expected)
+* 3 years Computer Science, Bethune-Cookman University, 2022
+* High School Diploma, Clewiston High School, 2019
 
 Work experience
 ======
