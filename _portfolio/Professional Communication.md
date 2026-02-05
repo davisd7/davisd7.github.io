@@ -1,5 +1,5 @@
 ---
-title: "Professional Communication Certification"
+title: "Professional Communication"
 excerpt: "Validates skills for effective workplace interaction<br/><img src='/images/Communication.png' width='100' height='100'>"
 collection: portfolio
 ---
